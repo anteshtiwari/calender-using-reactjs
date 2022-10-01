@@ -1,0 +1,144 @@
+.day-date-container{
+    background-color: #fff;
+    border-bottom: 2px solid rgb(214, 208, 213);
+    height: 12%;
+    width:899px;
+    color: #fff;
+    display: flex;
+    column-gap: 100px;
+    padding-left: 350px;
+    flex-wrap: wrap;
+    /* padding-right:80px; */
+    color: grey;
+    font-weight: bolder;
+    
+  }
+  
+  .day-date-container .sun{
+    background-color: #fff;
+    width: 35px;
+    justify-content: center;
+  }
+  .day-date-container .sun:hover{
+    background-color: #612adf;
+    /* border-radius: 18px; */
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    height: 88%;
+    color: #fff;
+    
+    
+  }
+  .day-date-container .mon{
+    background-color: #fff;
+    width: 40px;
+    justify-content: center;
+    
+  }
+  .day-date-container .mon:hover{
+    background-color: #612adf;
+    /* border-radius: 18px; */
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    height: 88%;
+    color: #fff;
+    
+  }
+  .day-date-container .tue{
+    background-color: #fff;;
+    width: 35px;
+    justify-content: center;
+    
+  }
+  .day-date-container .tue:hover{
+    background-color: #612adf;
+    /* border-radius: 18px; */
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    height: 88%;
+    color: #fff;
+  }
+  .day-date-container .wed{
+    background-color: #fff;;
+    width: 40px;
+    justify-content: center;
+    
+  }
+  .day-date-container .wed:hover{
+    background-color: #612adf;
+    /* border-radius: 18px; */
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    height: 88%;
+    color: #fff;
+  }
+  .day-date-container .thu{
+    background-color: #fff;
+    width: 35px;
+    justify-content: center;
+  }
+  .day-date-container .thu:hover{
+    background-color: #612adf;
+    /* border-radius: 18px; */
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    height: 88%;
+    color: #fff;
+  }
+  .day-date-container .fri{
+    background-color: #fff;;
+    width: 35px;
+    justify-content: center;
+    
+  }
+  .day-date-container .fri:hover{
+    background-color: #612adf;
+    /* border-radius: 18px; */
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    height: 88%;
+    color: #fff;
+  }
+  .day-date-container .sat{
+    background-color: #fff;
+    width: 35px;
+    justify-content: center;
+   
+  }
+  .day-date-container .sat:hover{
+    background-color: #612adf;
+    /* border-radius: 18px; */
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    height: 88%;
+    color: #fff;
+  }
+  
+  #week-day{
+    padding-top: 4px;
+    justify-content: center;
+    padding-left: 4px;
+    padding-bottom: 2px;
+  }
+  #week-date{
+    padding-top: 4px;
+    justify-content: center;
+    padding-left: 6px;
+    padding-bottom: 2px;
+  }
+  
+  
